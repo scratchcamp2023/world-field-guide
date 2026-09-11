@@ -1,0 +1,11 @@
+
+(async()=>{
+ const d=await loadData(); const id=new URLSearchParams(location.search).get('id')||'japan'; const c=d.countries.find(x=>x.id===id)||d.countries[0];
+ document.title=`${c.name} — World Field Guide`;
+ const sections=c.sections.map((s,i)=>`<section class="guide-section" id="sec-${i}"><h2>${s.title}</h2>${s.items.map(item=>`<article class="clue-module"><div class="clue-module-head"><h3>${item.name}</h3><div>${statusPill(item.status)} <span class="pill draft">${item.confidence}</span></div></div><p>${item.text}</p></article>`).join('')}</section>`).join('');
+ const conf=c.confusions.length?`<section class="guide-section" id="confusions"><h2>Common confusions</h2><div class="compare-cards">${c.confusions.map(x=>`<article class="compare-card"><h3>${c.name} vs ${x.with}</h3><b>SHARED VISUAL TEXTURE</b><p>${x.shared}</p><b>WHAT TO CHECK</b><p>${x.distinguish}</p></article>`).join('')}</div></section>`:'';
+ const source=c.source?`<section class="guide-section" id="source"><h2>Seed source</h2><div class="source-box"><p>This prototype entry is a paraphrased seed module. A production release should track evidence per clue and contributor.</p><a href="${c.source}" target="_blank">Open current source guide ↗</a></div></section>`:'';
+ document.querySelector('#countryPage').innerHTML=`<section class="country-page-hero"><span class="kicker">${c.code} · ${c.region} · ${c.status.toUpperCase()}</span><div class="country-page-top"><div><h1>${c.name}</h1><p>${c.summary}</p></div><div class="completion-card"><strong>${c.completion}%</strong><span>guide build progress</span></div></div></section>
+ <section class="quickfacts">${c.quick.map(x=>`<div>${x}</div>`).join('')}</section>
+ <section class="country-layout"><aside class="toc"><b>ON THIS PAGE</b>${c.sections.map((s,i)=>`<a href="#sec-${i}">${s.title}</a>`).join('')}${c.confusions.length?'<a href="#confusions">Common confusions</a>':''}${c.source?'<a href="#source">Source</a>':''}</aside><div>${sections}${conf}${source}</div></section>`;
+})();
