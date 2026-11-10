@@ -1,7 +1,6 @@
 name: Correction or challenge
 description: Report an error, outdated clue, missing exception, or misleading claim.
 title: "[Correction] "
-labels: ["correction"]
 body:
   - type: input
     id: page_or_clue
