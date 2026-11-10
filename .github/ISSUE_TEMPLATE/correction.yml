@@ -1,0 +1,43 @@
+name: Correction or challenge
+description: Report an error, outdated clue, missing exception, or misleading claim.
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: page_or_clue
+    attributes:
+      label: Page, country, or clue
+      placeholder: Link or exact title
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: What needs attention?
+      options:
+        - Factual error
+        - Geographic scope is too broad
+        - Missing exception or false friend
+        - Outdated coverage or imagery
+        - Source or attribution problem
+        - Typo or unclear wording
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or incomplete?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Provide sources, locations, examples, or reproducible observations.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_fix
+    attributes:
+      label: Suggested correction
