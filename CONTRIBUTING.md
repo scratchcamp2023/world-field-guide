@@ -51,3 +51,14 @@ Open a [new issue](https://github.com/scratchcamp2023/world-field-guide/issues/n
 Please keep discussions constructive and focus criticism on the evidence and the claim, not the contributor.
 
 Thank you for helping make GeoGuessr knowledge more open, careful, and useful.
+
+## Languages
+
+You may submit an issue or evidence in any language. The project is currently English-first, so maintainers or volunteers may translate or ask for clarification before publication. Please keep original-language text or a translation note when it is important to interpret a sign, road marking, or local term.
+
+## Useful templates
+
+- [Propose a clue](https://github.com/scratchcamp2023/world-field-guide/issues/new?template=clue-submission.yml)
+- [Report a correction or challenge](https://github.com/scratchcamp2023/world-field-guide/issues/new?template=correction.yml)
+- [Country guide proposal template](COUNTRY-GUIDE-TEMPLATE.md)
+- [Community principles](COMMUNITY.md)
