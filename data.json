@@ -442,6 +442,483 @@
       ],
       "confusions": [],
       "source": ""
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "code": "CA",
+      "region": "North America",
+      "status": "In review",
+      "completion": 35,
+      "summary": "A large country with strong national identifiers and extensive province-level variation in road signs, bollards, utility poles, road numbering, guardrails, and roadside objects.",
+      "quick": [
+        "Drives on the right",
+        "Metric system; speed signs commonly use “Maximum” and km/h",
+        "Distinctive diamond-shaped T-intersection signs",
+        "Provincial licence plates and highway shields",
+        "French-language road signs are especially useful in Québec and parts of New Brunswick"
+      ],
+      "sections": [
+        {
+          "title": "National identification",
+          "items": [
+            {
+              "clueId": "ca-maximum-signs",
+              "name": "“Maximum” speed-limit signs",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Canadian speed signs use “Maximum” and metric speeds in km/h. US signs generally say “Speed Limit” and use mph; compare wording and number format together."
+            },
+            {
+              "clueId": "ca-blank-road-signs",
+              "name": "Wordless railway and yield signs",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Canadian railway-crossing and yield signs are often symbol-only, while US equivalents more often include wording such as “RAILROAD CROSSING” or “YIELD”."
+            },
+            {
+              "clueId": "ca-metric-british-spelling",
+              "name": "Metric units and British English spelling",
+              "family": "Language & text",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Road contexts commonly use kilometres and spellings such as “centre” and “colour”. Useful as supporting evidence against the US, not as a standalone lock."
+            },
+            {
+              "clueId": "ca-diamond-t-intersection",
+              "name": "Diamond-shaped T-intersection warning sign",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Canada uses a distinctive diamond-shaped T-intersection sign. The guide describes this design as a uniquely Canadian clue; confirm the exact sign shape rather than relying on a generic junction symbol."
+            },
+            {
+              "clueId": "ca-yellow-centre-lines",
+              "name": "Single versus double yellow centre lines",
+              "family": "Road markings",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Single yellow centre lines are usual in Canada, while double yellow lines are more common in the US. Double lines still occur in Canada, so this is supporting evidence only."
+            },
+            {
+              "clueId": "ca-gen2-coverage",
+              "name": "Generation 2 coverage",
+              "family": "Coverage",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Gen 2 imagery is relatively common in Canada, particularly rural and remote areas, and much rarer in the US. Look for the large circular car blur and halo-like colour distortion in the sky."
+            },
+            {
+              "clueId": "ca-gen3-mirror-blur",
+              "name": "Generation 3 side-mirror blur",
+              "family": "Coverage",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Canadian Gen 3 side mirrors generally appear as two peaks, while US examples more often appear as a single peak. Treat this as a coverage-generation-specific comparison."
+            },
+            {
+              "clueId": "ca-community-mailboxes",
+              "name": "Communal mailboxes and Canada Post branding",
+              "family": "Vehicles & roadside objects",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Communal mailboxes can occur in Canada and may carry Canada Post’s red logo. They are described as rare in the US, where USPS branding is blue; personal mailboxes remain common in Canada too."
+            }
+          ]
+        },
+        {
+          "title": "Provincial plates & highway infrastructure",
+          "items": [
+            {
+              "clueId": "ca-provincial-plates",
+              "name": "Provincial licence-plate designs",
+              "family": "Licence plates",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Each province has its own plate design, and some remain recognizable when blurred. Front-plate requirements also differ by province. New Brunswick dropped the general front-plate requirement in 2019, while older coverage may still show front plates; Newfoundland and Labrador commercial vehicles require front plates."
+            },
+            {
+              "clueId": "ca-highway-shields",
+              "name": "Provincial highway shields",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Highway shield designs vary by province. The green Trans-Canada Highway shield is found across all ten provinces, so it identifies the route system rather than a specific province."
+            },
+            {
+              "clueId": "ca-kilometre-markers",
+              "name": "Provincial kilometre markers",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Kilometre-marker designs vary slightly by province. Ontario markers have a white square at the bottom, described by the guide as distinctive to Ontario."
+            },
+            {
+              "clueId": "ca-provincial-speed-signs",
+              "name": "Provincial speed-limit sign variants",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Ontario signs may have a black lower panel with “km/h” or “begins”; British Columbia signs may include “km/h” without that black panel; Québec signs may include French wording."
+            }
+          ]
+        },
+        {
+          "title": "Bollards, markers & roadside furniture",
+          "items": [
+            {
+              "clueId": "ca-alberta-bollard",
+              "name": "Alberta cylindrical black-and-white bollard",
+              "family": "Bollards",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "A cylindrical bollard with two black bands wrapping around is common in Alberta. Some have a yellow band between the black bands; blue bands are rare around Calgary and green bands rare around Edmonton. The Alberta bands are thinner than those on the similar Northwest Territories design."
+            },
+            {
+              "clueId": "ca-manitoba-bollard",
+              "name": "Manitoba black-and-grey bollards",
+              "family": "Bollards",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Manitoba bollards are described as black and grey painted, often with an orange stripe below the grey. Rectangular wooden forms occur farther north. A black-top-only form also appears in Saskatchewan."
+            },
+            {
+              "clueId": "ca-bc-bollard",
+              "name": "British Columbia thin black-and-white bollard",
+              "family": "Bollards",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "BC bollards are thin and slightly curved, with two black bands spaced more widely than on the similar Alberta bollard. They can occur throughout the province."
+            },
+            {
+              "clueId": "ca-quebec-guardrail-posts",
+              "name": "Québec guardrail-mounted reflector poles",
+              "family": "Roadside markers",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Québec has long, thin white poles attached to guardrails, with a red or green reflector at the top."
+            },
+            {
+              "clueId": "ca-quebec-hydrant-markers",
+              "name": "Québec fire-hydrant markers",
+              "family": "Roadside markers",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Yellow fire-hydrant markers may be mounted atop signposts. Québec City markers often have a blue rectangle; markers in Trois-Rivières are distinctly small. Similar markers also occur in Edmundston, New Brunswick."
+            },
+            {
+              "clueId": "ca-quebec-rectangular-road-markers",
+              "name": "Rectangular roadside markers",
+              "family": "Roadside markers",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Rectangular markers appear along Québec roads and vary in colour. They can rarely occur on urban divided highways in New Brunswick."
+            },
+            {
+              "clueId": "ca-ontario-diamond-markers",
+              "name": "Diamond-shaped roadside markers",
+              "family": "Roadside markers",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Diamond-shaped markers occur along Ontario roads; their colours vary."
+            },
+            {
+              "clueId": "ca-quebec-chevrons",
+              "name": "Red-and-white chevrons",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Québec is described as the only Canadian province using red-and-white chevrons; elsewhere in Canada, yellow-and-black chevrons are used."
+            }
+          ]
+        },
+        {
+          "title": "Utility poles & electrical infrastructure",
+          "items": [
+            {
+              "clueId": "ca-transformer-orientation",
+              "name": "Transformer orientation relative to the road",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Transformers face the road in British Columbia and New Brunswick; in other provinces they are generally parallel to the wires. In Prince Edward Island and Nova Scotia, transformers are often installed at a 45-degree angle to the road. PEI units often have red numbers on the side."
+            },
+            {
+              "clueId": "ca-insulator-orientation",
+              "name": "Insulator orientation",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Insulators facing toward or away from the road are mostly found in Québec, Nova Scotia and Prince Edward Island. Other provinces more often have insulators facing in the same direction as the road. Avoid using this at intersections or driveways."
+            },
+            {
+              "clueId": "ca-ontario-pole-tops",
+              "name": "Ontario-style three-insulator pole tops",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "A distinctive arrangement has two side insulators and one on top, with characteristic side attachments. Multiple units may be stacked. It can occasionally occur in British Columbia, Nova Scotia and elsewhere."
+            },
+            {
+              "clueId": "ca-quebec-pole-label",
+              "name": "Québec black-and-yellow pole label",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Some Québec poles carry a vertical black-and-yellow label with a small “Q” in the black portion."
+            },
+            {
+              "clueId": "ca-pei-pole-sticker",
+              "name": "Prince Edward Island pole sticker",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Poles on PEI usually feature a small white sticker."
+            },
+            {
+              "clueId": "ca-saskatchewan-alternating-insulators",
+              "name": "Alternating Saskatchewan pole insulators",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Adjacent poles may alternate between one insulator on the left and two on the right, then two on the left and one on the right. This pattern can rarely appear in Manitoba."
+            },
+            {
+              "clueId": "ca-manitoba-hanging-insulators",
+              "name": "Two hanging pole insulators",
+              "family": "Utility poles",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Poles with two hanging insulators are common in Manitoba."
+            }
+          ]
+        },
+        {
+          "title": "Province-specific signs & road numbering",
+          "items": [
+            {
+              "clueId": "ca-quebec-t-intersection-sign",
+              "name": "Québec T-intersection sign variant",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Québec T-intersection signs do not feature the chequerboard pattern described for the Canadian design."
+            },
+            {
+              "clueId": "ca-newfoundland-t-sign",
+              "name": "Newfoundland and Labrador T-intersection sign border",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "T-intersection signs feature a rectangular yellow border around the diamond shape."
+            },
+            {
+              "clueId": "ca-bc-green-sign-backs",
+              "name": "Green-backed road signs",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Road signs in British Columbia can have green backsides. Green backsides are also somewhat common on Prince Edward Island."
+            },
+            {
+              "clueId": "ca-bc-hanging-signposts",
+              "name": "Hanging sign installation",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Some British Columbia road signs are hung down from distinctive signposts."
+            },
+            {
+              "clueId": "ca-manitoba-striped-sticker",
+              "name": "Green-and-white striped signpost sticker",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "A green-and-white striped sticker can sometimes be found on signposts in Manitoba."
+            },
+            {
+              "clueId": "ca-saskatchewan-signpost-triangles",
+              "name": "White triangles on signposts",
+              "family": "Road signs",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Saskatchewan signposts can feature white triangles; the number of triangles can vary."
+            },
+            {
+              "clueId": "ca-quebec-arret",
+              "name": "Arrêt-only stop signs",
+              "family": "Road signs & language",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Stop signs reading “Arrêt” are characteristic of Québec. French is also spoken in minority communities elsewhere, so inspect the exact sign and wider context."
+            },
+            {
+              "clueId": "ca-new-brunswick-bilingual-stop",
+              "name": "Bilingual Stop / Arrêt signs",
+              "family": "Road signs & language",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Stop signs displaying both “Stop” and “Arrêt” are most common in New Brunswick but can rarely occur in other provinces."
+            },
+            {
+              "clueId": "ca-new-brunswick-bilingual-street",
+              "name": "Bilingual street signs",
+              "family": "Road signs & language",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Street signs in New Brunswick are bilingual. Bilingual street signs also occur in other Canadian areas with French-speaking minorities."
+            },
+            {
+              "clueId": "ca-alberta-township-range-grid",
+              "name": "Alberta Township and Range road grid",
+              "family": "Road numbering",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Township roads (Twp Rd) run east–west and their numbers increase northward. Range roads (Rge Rd) run north–south and their numbers increase westward; numbering resets in several places. The guide’s grid infographic multiplies displayed grid numbers by ten to obtain road numbers."
+            },
+            {
+              "clueId": "ca-manitoba-numbered-grid",
+              "name": "Manitoba rural road-number grid",
+              "family": "Road numbering",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Rural roads are arranged in a grid. Roads ending in N run east–west and their numbers increase by one per mile north of the US border. Roads marked E or W run north–south and indicate position relative to the principal meridian just west of Winnipeg."
+            }
+          ]
+        },
+        {
+          "title": "Guardrails, road markings & other roadside clues",
+          "items": [
+            {
+              "clueId": "ca-bc-concrete-barriers",
+              "name": "Concrete highway barriers",
+              "family": "Roadside infrastructure",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "British Columbia predominantly uses concrete barriers instead of guardrails."
+            },
+            {
+              "clueId": "ca-alberta-wire-guardrail",
+              "name": "Wire-style highway guardrail",
+              "family": "Roadside infrastructure",
+              "status": "in-review",
+              "confidence": "Low",
+              "text": "A guardrail made from small posts connected by three or four metal wires can rarely be found on major Alberta highways."
+            },
+            {
+              "clueId": "ca-ontario-wooden-wire-guardrail",
+              "name": "Ontario wooden-post wire guardrail",
+              "family": "Roadside infrastructure",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Ontario often has guardrails made from cylindrical wooden posts joined by exactly three metal wires. Some posts carry a reflective white band."
+            },
+            {
+              "clueId": "ca-newfoundland-pyramid-posts",
+              "name": "Pyramid-topped wooden guardrail posts",
+              "family": "Roadside infrastructure",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Many wooden guardrail posts have pyramid-shaped tops. Similar tops can occasionally appear on standalone posts and signposts."
+            },
+            {
+              "clueId": "ca-newfoundland-hydrant-diamond",
+              "name": "Diamond marker beside fire hydrants",
+              "family": "Roadside markers",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Fire hydrants often have a diamond-shaped marker beside them."
+            },
+            {
+              "clueId": "ca-newfoundland-sign-boxes",
+              "name": "Wooden sign-support boxes",
+              "family": "Roadside infrastructure",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Wooden boxes supporting signs can be found in Newfoundland and Labrador."
+            },
+            {
+              "clueId": "ca-eastern-double-yellow-lines",
+              "name": "Double yellow centre lines in Eastern Canada",
+              "family": "Road markings",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Within Eastern Canada, double yellow lines are most common in Nova Scotia, followed by Québec and PEI. Ontario generally prefers single yellow lines but sometimes uses double lines."
+            },
+            {
+              "clueId": "ca-saskatchewan-white-centre-dashes",
+              "name": "White dashes between yellow centre lines",
+              "family": "Road markings",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "White dashes can sometimes appear between the yellow centre lines in Saskatchewan."
+            },
+            {
+              "clueId": "ca-rumble-strips",
+              "name": "Centre-line rumble strips",
+              "family": "Road markings",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Rumble strips in the centre of the road, generally over the road lines, are most common in Alberta and British Columbia."
+            },
+            {
+              "clueId": "ca-ontario-traffic-cones",
+              "name": "Orange-and-black traffic cones",
+              "family": "Roadside objects",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Ontario uses distinctive orange-and-black striped traffic cones."
+            },
+            {
+              "clueId": "ca-quebec-traffic-cones",
+              "name": "Orange-and-white traffic cones",
+              "family": "Roadside objects",
+              "status": "in-review",
+              "confidence": "High",
+              "text": "Québec uses distinctive orange-and-white striped traffic cones."
+            },
+            {
+              "clueId": "ca-new-brunswick-ns-lampheads",
+              "name": "Rectangular street-lamp heads",
+              "family": "Street lighting",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Rectangular lampheads are common in New Brunswick and Nova Scotia."
+            },
+            {
+              "clueId": "ca-nova-scotia-short-curved-lamp-arms",
+              "name": "Short curved utility-pole lamp arms",
+              "family": "Street lighting",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Lamp arms on Nova Scotia utility poles are usually curved and much shorter than elsewhere in Canada. Short arms can occasionally occur in other provinces."
+            },
+            {
+              "clueId": "ca-newfoundland-wooden-driveway-bins",
+              "name": "Wooden plank driveway bins",
+              "family": "Roadside objects",
+              "status": "in-review",
+              "confidence": "Medium",
+              "text": "Wooden plank bins can be seen on Newfoundland driveways. They are most often octagonal but can have other shapes; occasional examples occur in New Brunswick."
+            }
+          ]
+        }
+      ],
+      "confusions": [
+        {
+          "with": "United States",
+          "shared": "Wooden utility poles, cylindrical transformers, short licence plates, overhead traffic-light bars, water towers, and many road conventions",
+          "distinguish": "“Maximum” versus “Speed Limit”, metric versus imperial units, diamond T-intersection signs, Canadian coverage-generation patterns, communal mailboxes, and province-specific infrastructure"
+        },
+        {
+          "with": "Neighboring Canadian provinces",
+          "shared": "Many bollards, pole fittings, sign designs, and road markings cross provincial borders or occur as rare exceptions",
+          "distinguish": "Use combinations of licence plates, highway shields, kilometre markers, utility hardware, road numbering, language, and landscape; avoid single-clue province locks"
+        }
+      ],
+      "source": "https://www.plonkit.net/canada"
     }
   ],
   "clues": [
