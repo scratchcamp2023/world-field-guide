@@ -1,7 +1,6 @@
 name: Clue submission
 description: Propose a GeoGuessr clue with clear scope and evidence.
 title: "[Clue] "
-labels: ["community-submission"]
 body:
   - type: markdown
     attributes:
