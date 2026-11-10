@@ -1,0 +1,77 @@
+name: Clue submission
+description: Propose a GeoGuessr clue with clear scope and evidence.
+title: "[Clue] "
+labels: ["community-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit observations, not unsupported universal rules. Please do not attach images you do not own or have permission to redistribute.
+  - type: input
+    id: country_region
+    attributes:
+      label: Country and region
+      description: Include the most precise geographic scope you can support.
+      placeholder: e.g. Japan, Hokkaido
+    validations:
+      required: true
+  - type: dropdown
+    id: family
+    attributes:
+      label: Clue family
+      options:
+        - Infrastructure
+        - Road markings and signs
+        - Vehicles and coverage
+        - Architecture
+        - Landscape and vegetation
+        - Language and text
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: clue_name
+    attributes:
+      label: Short clue name
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What is actually visible?
+      description: Describe the feature without jumping to a conclusion.
+    validations:
+      required: true
+  - type: textarea
+    id: interpretation
+    attributes:
+      label: What can this help distinguish?
+      description: Explain how a GeoGuessr player could use the observation.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: Exceptions and false friends
+      description: Where else might it occur? When could it mislead?
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and repeat observations
+      description: Add Street View links, sources, dates, or multiple independent examples.
+    validations:
+      required: true
+  - type: textarea
+    id: image_rights
+    attributes:
+      label: Image source and rights
+      description: State who created any image and the licence or permission basis. A public Street View URL is a reference, not permission to republish imagery.
+  - type: checkboxes
+    id: declaration
+    attributes:
+      label: Submission checks
+      options:
+        - label: I have not knowingly submitted copyrighted material for redistribution without permission.
+          required: true
+        - label: I understand this claim will be reviewed and may be edited, narrowed, or declined.
+          required: true
