@@ -22,3 +22,31 @@
 footer{padding:28px 0 42px;display:flex;justify-content:space-between;gap:18px;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}footer p{margin:4px 0}.footer-links{display:flex;gap:18px}.footer-links a{color:var(--lime);font-weight:800}
 @media(max-width:920px){.nav-toggle{display:block}.site-header nav{display:none;position:absolute;top:68px;left:18px;right:18px;flex-direction:column;align-items:flex-start;background:#0c1712;border:1px solid var(--line);border-radius:18px;padding:18px}.site-header nav.open{display:flex}.home-hero,.mission-grid,.verified-feature,.project-banner,.contrib-layout,.standards,.country-layout,.clue-layout{grid-template-columns:1fr}.hero-orbit{padding:20px 0 70px}.country-grid,.methodology,.policy-grid,.quickfacts,.visual-grid,.detail-grid{grid-template-columns:repeat(2,1fr)}.clue-row{grid-template-columns:1fr}.country-page-top,.clue-page-top{flex-direction:column;align-items:flex-start}.toc{position:static}.compare-cards,.comparison-grid{grid-template-columns:1fr}.filterbar,.filterbar.clues-filter{grid-template-columns:1fr 1fr}.filterbar input{grid-column:1/-1}}
 @media(max-width:600px){.section{padding:68px 0}.hero h1,.page-hero h1,.country-page-hero h1,.clue-page-hero h1{font-size:54px}.home-hero{min-height:auto;padding-top:80px}.country-grid,.principles,.quickfacts,.filterbar,.filterbar.clues-filter,.methodology,.policy-grid,.contribution-stats,.visual-grid,.detail-grid{grid-template-columns:1fr}.filterbar input{grid-column:auto}.project-banner{padding:24px}.compare-picker{grid-template-columns:1fr}.compare-picker span{padding:4px}.standards li{grid-template-columns:1fr}footer{flex-direction:column}}
+
+/* Accessibility and small-screen usability */
+:focus-visible{outline:3px solid var(--lime);outline-offset:3px}
+.site-header nav a,.footer-links a,.text-link{min-height:36px;display:inline-flex;align-items:center}
+.nav-toggle{min-width:44px;min-height:44px;cursor:pointer;border-radius:10px}
+.btn{min-height:44px}
+.form-card input,.form-card select,.form-card textarea,.filterbar input,.filterbar select,.compare-picker select{min-height:44px}
+.skip-link{position:absolute;left:12px;top:-60px;z-index:100;background:var(--lime);color:#08110d;padding:12px 16px;border-radius:10px;font-weight:900}
+.skip-link:focus{top:12px}
+@media(max-width:920px){
+ .site-header{padding-inline:18px}
+ .site-header nav a{width:100%;padding:7px 0}
+ .contrib-layout{gap:28px}
+ .form-card{min-width:0}
+}
+@media(max-width:600px){
+ .hero-copy>p,.page-hero.compact p,.project-hero p,.country-page-hero p,.clue-page-hero p{font-size:16px}
+ .country-card{min-height:220px}
+ .country-card h3{margin-top:28px}
+ .form-card{padding:18px}
+ .comparison-title h2{font-size:36px}
+ .glass-card{padding:17px}
+ .pipeline{gap:7px}
+ .pipeline span{font-size:9px}
+}
+@media(prefers-reduced-motion:reduce){
+ *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
