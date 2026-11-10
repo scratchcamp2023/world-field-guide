@@ -351,5 +351,1305 @@
       "url": ""
     },
     "visuals": []
+  },
+  "ca-maximum-signs": {
+    "aliases": [
+      "“Maximum” speed-limit signs"
+    ],
+    "scope": "“Maximum” speed-limit signs",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Canadian speed signs use “Maximum” and metric speeds in km/h. US signs generally say “Speed Limit” and use mph; compare wording and number format together. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-blank-road-signs": {
+    "aliases": [
+      "Wordless railway and yield signs"
+    ],
+    "scope": "Wordless railway and yield signs",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Canadian railway-crossing and yield signs are often symbol-only, while US equivalents more often include wording such as “RAILROAD CROSSING” or “YIELD”. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-metric-british-spelling": {
+    "aliases": [
+      "Metric units and British English spelling"
+    ],
+    "scope": "National identification support",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Road contexts commonly use kilometres and spellings such as “centre” and “colour”. Useful as supporting evidence against the US, not as a standalone lock. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-diamond-t-intersection": {
+    "aliases": [
+      "Diamond-shaped T-intersection warning sign"
+    ],
+    "scope": "Diamond-shaped T-intersection warning sign",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Canada uses a distinctive diamond-shaped T-intersection sign. The guide describes this design as a uniquely Canadian clue; confirm the exact sign shape rather than relying on a generic junction symbol. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-yellow-centre-lines": {
+    "aliases": [
+      "Single versus double yellow centre lines"
+    ],
+    "scope": "Single versus double yellow centre lines",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Single yellow centre lines are usual in Canada, while double yellow lines are more common in the US. Double lines still occur in Canada, so this is supporting evidence only. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-gen2-coverage": {
+    "aliases": [
+      "Generation 2 coverage"
+    ],
+    "scope": "Coverage-generation identification",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Gen 2 imagery is relatively common in Canada, particularly rural and remote areas, and much rarer in the US. Look for the large circular car blur and halo-like colour distortion in the sky. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-gen3-mirror-blur": {
+    "aliases": [
+      "Generation 3 side-mirror blur"
+    ],
+    "scope": "Coverage-generation identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Canadian Gen 3 side mirrors generally appear as two peaks, while US examples more often appear as a single peak. Treat this as a coverage-generation-specific comparison. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-community-mailboxes": {
+    "aliases": [
+      "Communal mailboxes and Canada Post branding"
+    ],
+    "scope": "Communal mailboxes and Canada Post branding",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Communal mailboxes can occur in Canada and may carry Canada Post’s red logo. They are described as rare in the US, where USPS branding is blue; personal mailboxes remain common in Canada too. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-provincial-plates": {
+    "aliases": [
+      "Provincial licence-plate designs"
+    ],
+    "scope": "Provincial licence-plate designs",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Each province has its own plate design, and some remain recognizable when blurred. Front-plate requirements also differ by province. New Brunswick dropped the general front-plate requirement in 2019, while older coverage may still show front plates; Newfoundland and Labrador commercial vehicles require front plates. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-highway-shields": {
+    "aliases": [
+      "Provincial highway shields"
+    ],
+    "scope": "Provincial highway shields",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Highway shield designs vary by province. The green Trans-Canada Highway shield is found across all ten provinces, so it identifies the route system rather than a specific province. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-kilometre-markers": {
+    "aliases": [
+      "Provincial kilometre markers"
+    ],
+    "scope": "Provincial kilometre markers",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Kilometre-marker designs vary slightly by province. Ontario markers have a white square at the bottom, described by the guide as distinctive to Ontario. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-provincial-speed-signs": {
+    "aliases": [
+      "Provincial speed-limit sign variants"
+    ],
+    "scope": "Provincial speed-limit sign variants",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Ontario signs may have a black lower panel with “km/h” or “begins”; British Columbia signs may include “km/h” without that black panel; Québec signs may include French wording. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-alberta-bollard": {
+    "aliases": [
+      "Alberta cylindrical black-and-white bollard"
+    ],
+    "scope": "Alberta cylindrical black-and-white bollard",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "A cylindrical bollard with two black bands wrapping around is common in Alberta. Some have a yellow band between the black bands; blue bands are rare around Calgary and green bands rare around Edmonton. The Alberta bands are thinner than those on the similar Northwest Territories design. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-manitoba-bollard": {
+    "aliases": [
+      "Manitoba black-and-grey bollards"
+    ],
+    "scope": "Manitoba black-and-grey bollards",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Manitoba bollards are described as black and grey painted, often with an orange stripe below the grey. Rectangular wooden forms occur farther north. A black-top-only form also appears in Saskatchewan. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-bc-bollard": {
+    "aliases": [
+      "British Columbia thin black-and-white bollard"
+    ],
+    "scope": "British Columbia thin black-and-white bollard",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "BC bollards are thin and slightly curved, with two black bands spaced more widely than on the similar Alberta bollard. They can occur throughout the province. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-guardrail-posts": {
+    "aliases": [
+      "Québec guardrail-mounted reflector poles"
+    ],
+    "scope": "Québec guardrail-mounted reflector poles",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Québec has long, thin white poles attached to guardrails, with a red or green reflector at the top. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-hydrant-markers": {
+    "aliases": [
+      "Québec fire-hydrant markers"
+    ],
+    "scope": "Québec fire-hydrant markers",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Yellow fire-hydrant markers may be mounted atop signposts. Québec City markers often have a blue rectangle; markers in Trois-Rivières are distinctly small. Similar markers also occur in Edmundston, New Brunswick. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-rectangular-road-markers": {
+    "aliases": [
+      "Rectangular roadside markers"
+    ],
+    "scope": "Rectangular roadside markers",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Rectangular markers appear along Québec roads and vary in colour. They can rarely occur on urban divided highways in New Brunswick. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-ontario-diamond-markers": {
+    "aliases": [
+      "Diamond-shaped roadside markers"
+    ],
+    "scope": "Diamond-shaped roadside markers",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Diamond-shaped markers occur along Ontario roads; their colours vary. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-chevrons": {
+    "aliases": [
+      "Red-and-white chevrons"
+    ],
+    "scope": "Red-and-white chevrons",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Québec is described as the only Canadian province using red-and-white chevrons; elsewhere in Canada, yellow-and-black chevrons are used. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-transformer-orientation": {
+    "aliases": [
+      "Transformer orientation relative to the road"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Transformers face the road in British Columbia and New Brunswick; in other provinces they are generally parallel to the wires. In Prince Edward Island and Nova Scotia, transformers are often installed at a 45-degree angle to the road. PEI units often have red numbers on the side. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-insulator-orientation": {
+    "aliases": [
+      "Insulator orientation"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Insulators facing toward or away from the road are mostly found in Québec, Nova Scotia and Prince Edward Island. Other provinces more often have insulators facing in the same direction as the road. Avoid using this at intersections or driveways. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-ontario-pole-tops": {
+    "aliases": [
+      "Ontario-style three-insulator pole tops"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "A distinctive arrangement has two side insulators and one on top, with characteristic side attachments. Multiple units may be stacked. It can occasionally occur in British Columbia, Nova Scotia and elsewhere. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-pole-label": {
+    "aliases": [
+      "Québec black-and-yellow pole label"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Some Québec poles carry a vertical black-and-yellow label with a small “Q” in the black portion. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-pei-pole-sticker": {
+    "aliases": [
+      "Prince Edward Island pole sticker"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Poles on PEI usually feature a small white sticker. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-saskatchewan-alternating-insulators": {
+    "aliases": [
+      "Alternating Saskatchewan pole insulators"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Adjacent poles may alternate between one insulator on the left and two on the right, then two on the left and one on the right. This pattern can rarely appear in Manitoba. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-manitoba-hanging-insulators": {
+    "aliases": [
+      "Two hanging pole insulators"
+    ],
+    "scope": "Provincial utility-infrastructure identification",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Poles with two hanging insulators are common in Manitoba. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-t-intersection-sign": {
+    "aliases": [
+      "Québec T-intersection sign variant"
+    ],
+    "scope": "Québec T-intersection sign variant",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Québec T-intersection signs do not feature the chequerboard pattern described for the Canadian design. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-newfoundland-t-sign": {
+    "aliases": [
+      "Newfoundland and Labrador T-intersection sign border"
+    ],
+    "scope": "Newfoundland and Labrador T-intersection sign border",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "T-intersection signs feature a rectangular yellow border around the diamond shape. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-bc-green-sign-backs": {
+    "aliases": [
+      "Green-backed road signs"
+    ],
+    "scope": "Green-backed road signs",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Road signs in British Columbia can have green backsides. Green backsides are also somewhat common on Prince Edward Island. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-bc-hanging-signposts": {
+    "aliases": [
+      "Hanging sign installation"
+    ],
+    "scope": "Hanging sign installation",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Some British Columbia road signs are hung down from distinctive signposts. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-manitoba-striped-sticker": {
+    "aliases": [
+      "Green-and-white striped signpost sticker"
+    ],
+    "scope": "Green-and-white striped signpost sticker",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "A green-and-white striped sticker can sometimes be found on signposts in Manitoba. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-saskatchewan-signpost-triangles": {
+    "aliases": [
+      "White triangles on signposts"
+    ],
+    "scope": "White triangles on signposts",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Saskatchewan signposts can feature white triangles; the number of triangles can vary. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-arret": {
+    "aliases": [
+      "Arrêt-only stop signs"
+    ],
+    "scope": "Arrêt-only stop signs",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Stop signs reading “Arrêt” are characteristic of Québec. French is also spoken in minority communities elsewhere, so inspect the exact sign and wider context. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-new-brunswick-bilingual-stop": {
+    "aliases": [
+      "Bilingual Stop / Arrêt signs"
+    ],
+    "scope": "Bilingual Stop / Arrêt signs",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Stop signs displaying both “Stop” and “Arrêt” are most common in New Brunswick but can rarely occur in other provinces. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-new-brunswick-bilingual-street": {
+    "aliases": [
+      "Bilingual street signs"
+    ],
+    "scope": "Bilingual street signs",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Street signs in New Brunswick are bilingual. Bilingual street signs also occur in other Canadian areas with French-speaking minorities. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-alberta-township-range-grid": {
+    "aliases": [
+      "Alberta Township and Range road grid"
+    ],
+    "scope": "Regional road-grid identification",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Township roads (Twp Rd) run east–west and their numbers increase northward. Range roads (Rge Rd) run north–south and their numbers increase westward; numbering resets in several places. The guide’s grid infographic multiplies displayed grid numbers by ten to obtain road numbers. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-manitoba-numbered-grid": {
+    "aliases": [
+      "Manitoba rural road-number grid"
+    ],
+    "scope": "Regional road-grid identification",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Rural roads are arranged in a grid. Roads ending in N run east–west and their numbers increase by one per mile north of the US border. Roads marked E or W run north–south and indicate position relative to the principal meridian just west of Winnipeg. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-bc-concrete-barriers": {
+    "aliases": [
+      "Concrete highway barriers"
+    ],
+    "scope": "Concrete highway barriers",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "British Columbia predominantly uses concrete barriers instead of guardrails. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-alberta-wire-guardrail": {
+    "aliases": [
+      "Wire-style highway guardrail"
+    ],
+    "scope": "Wire-style highway guardrail",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "A guardrail made from small posts connected by three or four metal wires can rarely be found on major Alberta highways. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-ontario-wooden-wire-guardrail": {
+    "aliases": [
+      "Ontario wooden-post wire guardrail"
+    ],
+    "scope": "Ontario wooden-post wire guardrail",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Ontario often has guardrails made from cylindrical wooden posts joined by exactly three metal wires. Some posts carry a reflective white band. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-newfoundland-pyramid-posts": {
+    "aliases": [
+      "Pyramid-topped wooden guardrail posts"
+    ],
+    "scope": "Pyramid-topped wooden guardrail posts",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Many wooden guardrail posts have pyramid-shaped tops. Similar tops can occasionally appear on standalone posts and signposts. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-newfoundland-hydrant-diamond": {
+    "aliases": [
+      "Diamond marker beside fire hydrants"
+    ],
+    "scope": "Diamond marker beside fire hydrants",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Fire hydrants often have a diamond-shaped marker beside them. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-newfoundland-sign-boxes": {
+    "aliases": [
+      "Wooden sign-support boxes"
+    ],
+    "scope": "Wooden sign-support boxes",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Wooden boxes supporting signs can be found in Newfoundland and Labrador. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-eastern-double-yellow-lines": {
+    "aliases": [
+      "Double yellow centre lines in Eastern Canada"
+    ],
+    "scope": "Double yellow centre lines in Eastern Canada",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Within Eastern Canada, double yellow lines are most common in Nova Scotia, followed by Québec and PEI. Ontario generally prefers single yellow lines but sometimes uses double lines. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-saskatchewan-white-centre-dashes": {
+    "aliases": [
+      "White dashes between yellow centre lines"
+    ],
+    "scope": "White dashes between yellow centre lines",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "White dashes can sometimes appear between the yellow centre lines in Saskatchewan. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-rumble-strips": {
+    "aliases": [
+      "Centre-line rumble strips"
+    ],
+    "scope": "Centre-line rumble strips",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Rumble strips in the centre of the road, generally over the road lines, are most common in Alberta and British Columbia. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-ontario-traffic-cones": {
+    "aliases": [
+      "Orange-and-black traffic cones"
+    ],
+    "scope": "Orange-and-black traffic cones",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Ontario uses distinctive orange-and-black striped traffic cones. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-quebec-traffic-cones": {
+    "aliases": [
+      "Orange-and-white traffic cones"
+    ],
+    "scope": "Orange-and-white traffic cones",
+    "reliability": "Useful clue within the stated geographic and coverage scope; verify with another independent clue.",
+    "howToUse": "Québec uses distinctive orange-and-white striped traffic cones. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-new-brunswick-ns-lampheads": {
+    "aliases": [
+      "Rectangular street-lamp heads"
+    ],
+    "scope": "Rectangular street-lamp heads",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Rectangular lampheads are common in New Brunswick and Nova Scotia. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-nova-scotia-short-curved-lamp-arms": {
+    "aliases": [
+      "Short curved utility-pole lamp arms"
+    ],
+    "scope": "Short curved utility-pole lamp arms",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Lamp arms on Nova Scotia utility poles are usually curved and much shorter than elsewhere in Canada. Short arms can occasionally occur in other provinces. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
+  },
+  "ca-newfoundland-wooden-driveway-bins": {
+    "aliases": [
+      "Wooden plank driveway bins"
+    ],
+    "scope": "Wooden plank driveway bins",
+    "reliability": "Supporting clue only; distribution and exceptions require additional examples.",
+    "howToUse": "Wooden plank bins can be seen on Newfoundland driveways. They are most often octagonal but can have other shapes; occasional examples occur in New Brunswick. Combine with independent signs, landscape, road context, or another infrastructure clue before making a precise guess.",
+    "exceptions": "This entry is distilled from the Plonk It Canada guide and has not yet been independently checked against a representative set of Street View locations. Do not treat absence as evidence against the region.",
+    "falseFriends": "Neighboring provinces or the United States may share similar-looking features. Compare the specific shape, placement, wording, and surrounding context rather than relying on a broad resemblance.",
+    "reviewNote": "Imported from Plonk It Canada for initial community review. Validate the geographic scope, repeatability, exceptions, and current coverage before changing status to Verified.",
+    "sourceAttribution": {
+      "label": "Plonk It Canada guide",
+      "url": "https://www.plonkit.net/canada"
+    },
+    "visuals": [
+      {
+        "label": "Reference example",
+        "caption": "Add an independently captured or properly licensed example showing the clue clearly.",
+        "image": "",
+        "credit": "",
+        "license": "",
+        "sourceUrl": ""
+      }
+    ]
   }
 }
